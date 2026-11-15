@@ -49,7 +49,7 @@
 <body>
 <section id="start" class="screen on">
   <h1>What's That <span>Part?</span></h1>
-  <p class="sub">A close-up appears. Guess what it is, then tap to reveal.</p>
+  <p class="sub">A part appears. Guess what it is, then tap to reveal.</p>
   <div class="sets" id="sets"></div>
   <button class="go" id="startBtn">Start</button>
 </section>
@@ -114,7 +114,8 @@ function layout(animate) {
   const w = a * k, h = k, left = (st.width - w) / 2, top = (sh - h) / 2;
   Object.assign(photo.style, { width: w + 'px', height: h + 'px', left: left + 'px', top: top + 'px' });
   photo.style.transition = animate ? '' : 'none';
-  if (revealed) { photo.style.transform = 'none'; return; }
+  // The whole part is always visible; tapping only reveals the name.
+  photo.style.transform = 'none'; return;
   const [bx, by, bw, bh] = (it.box || [0, 0, 100, 100]).map(v => v / 100);
   const z = Math.min(MAXZ, Math.max(MINZ, Math.min(st.width / (PATCH * bw * w), st.height / (PATCH * bh * h))));
   const tx = st.width / 2 - left - z * view.x * w, ty = st.height / 2 - top - z * view.y * h;
