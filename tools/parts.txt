@@ -1,0 +1,65 @@
+Cars|Spark plug
+Cars|Alternator
+Cars|Brake caliper|car brake caliper isolated on white
+Cars|Brake rotor|car brake disc rotor isolated on white
+Cars|Radiator|car radiator isolated on white
+Cars|Turbocharger
+Cars|Air filter|car engine air filter isolated on white
+Cars|Timing belt
+Cars|Camshaft
+Cars|Crankshaft
+Cars|Piston|engine piston with connecting rod isolated on white
+Cars|Fuel injector
+Cars|CV axle|cv axle shaft isolated on white
+Cars|Shock absorber
+Cars|Exhaust manifold
+Cars|Oil filter|car oil filter isolated on white
+Cars|Starter motor|car starter motor isolated on white
+Cars|Distributor cap
+Cars|Carburetor
+Cars|Clutch disc|car clutch disc isolated on white
+Cars|Catalytic converter
+Cars|Ignition coil|car ignition coil pack isolated on white
+Cars|Water pump|car water pump isolated on white
+Cars|Serpentine belt
+Cars|Wheel hub|wheel hub bearing assembly isolated on white
+Cars|Thermostat|car engine thermostat isolated on white
+Cars|Brake pads|car brake pads isolated on white
+Cars|Oxygen sensor|car oxygen sensor isolated on white
+Cars|Muffler|car muffler isolated on white
+Cars|Tie rod end
+Tools|Ratchet|socket wrench ratchet isolated on white
+Tools|Torque wrench
+Tools|Adjustable wrench
+Tools|Combination wrench|combination spanner wrench isolated on white
+Tools|Locking pliers|vise grip locking pliers isolated on white
+Tools|Needle-nose pliers
+Tools|Claw hammer
+Tools|Phillips screwdriver
+Tools|Allen keys|allen hex key set isolated on white
+Tools|Tape measure
+Tools|Spirit level
+Tools|Hacksaw
+Tools|Wire strippers
+Tools|Vernier caliper
+Tools|Multimeter
+Tools|Pipe wrench
+Tools|Chisel|wood chisel isolated on white
+Tools|Impact driver|cordless impact driver isolated on white
+Tools|Tin snips
+Tools|Socket set|socket set sockets isolated on white
+Parts|Ball bearing|ball bearing isolated on white
+Parts|Spur gear|metal spur gear isolated on white
+Parts|Hex bolt and nut|hex bolt and nut isolated on white
+Parts|Compression spring|steel compression spring isolated on white
+Parts|Pulley|v-belt pulley isolated on white
+Parts|Roller chain|roller chain isolated on white
+Parts|Sprocket|steel sprocket isolated on white
+Parts|Washer|metal flat washer isolated on white
+Parts|Rivet|pop rivet isolated on white
+Parts|Hinge|door hinge isolated on white
+Parts|Universal joint|universal joint u-joint isolated on white
+Parts|Cotter pin
+Parts|Worm gear|worm gear isolated on white
+Parts|Ball valve|brass ball valve isolated on white
+Parts|Hose clamp|hose clamp isolated on white

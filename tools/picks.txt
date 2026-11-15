@@ -1,0 +1,65 @@
+0|6|Fires the fuel-air mix in each cylinder with a tiny electric arc.
+1|1|Spun by the engine belt, it charges the battery and powers the electrics.
+2|1|Squeezes brake pads against the spinning rotor to stop the wheel.
+3|1|The disc the brake pads clamp onto; it spins with the wheel.
+4|7|Sheds engine heat into the air passing through its thin fins.
+5|1|Exhaust spins a turbine that crams extra air into the engine.
+6|2|Stops dust and grit from being sucked into the engine.
+7|1|Toothed belt that keeps the camshaft in step with the crankshaft.
+8|2|Its lobes push the valves open at exactly the right moment.
+9|3|Turns the pistons' up-and-down motion into spinning motion.
+10|7|Pushed down by burning fuel, it drives the crankshaft through its rod.
+11|2|Sprays a fine mist of fuel into the engine, controlled by the computer.
+12|3|Carries power from the gearbox to a front wheel while it steers and bounces.
+13|3|Damps the spring so the car doesn't keep bouncing after a bump.
+14|1|Collects exhaust from each cylinder into one pipe.
+15|2|Catches grit and metal bits before oil goes back round the engine.
+16|0|An electric motor that cranks the engine to get it running.
+17|1|Sends the spark to each cylinder in turn on older engines.
+18|1|Mixes fuel into incoming air, the job injectors do in modern cars.
+19|2|Grips the flywheel so engine power reaches the gearbox.
+20|4|A honeycomb coated in precious metals that cleans exhaust gas.
+21|4|Turns 12 volts into the tens of thousands a spark plug needs.
+22|1|Pushes coolant round the engine and radiator.
+23|1|One long ribbed belt that drives the alternator, AC and power steering.
+24|6|Holds the wheel on its bearing so it spins smoothly.
+25|4|A wax valve that keeps coolant in the engine until it warms up.
+26|7|The friction blocks that rub on the rotor when you brake.
+27|6|Sniffs the exhaust so the computer can tune the fuel mix.
+28|6|Quiets the exhaust with chambers and baffles.
+29|0|The ball joint linking the steering rack to the wheel.
+30|4|Turns a socket back and forth without lifting it off the bolt.
+31|6|Clicks when a bolt reaches exactly the right tightness.
+32|6|One wrench whose jaw slides to fit many bolt sizes.
+33|3|Open jaw on one end, closed ring on the other, same size.
+34|7|Pliers that clamp shut and stay locked on their own.
+35|0|Long thin jaws for reaching into tight spots.
+36|6|Drives nails in, and the forked claw pulls them out.
+37|3|Cross-shaped tip for the most common screws.
+38|1|L-shaped hex bars for bolts with a six-sided hole.
+39|2|A spring-loaded steel ribbon for measuring length.
+40|0|A bubble in a vial shows when a surface is perfectly flat.
+41|3|A fine-toothed blade held tight in a frame, for cutting metal.
+42|1|Strips the insulation off wire without cutting the copper.
+43|3|Measures thickness and diameter to a fraction of a millimetre.
+44|2|Measures voltage, current and resistance in a circuit.
+45|1|Serrated jaws bite into round pipe as you turn it.
+46|5|A sharp bevelled blade for carving and paring wood.
+47|4|Hammers while it spins to drive long screws and bolts.
+48|7|Scissors for cutting sheet metal.
+49|0|Sockets in a row of sizes that snap onto a ratchet.
+50|1|Steel balls rolling between two rings so a shaft spins freely.
+51|3|A toothed wheel that meshes with another to pass on motion.
+52|5|A threaded bolt and the nut that screws onto it.
+53|2|A coil that pushes back when you squeeze it.
+54|1|A grooved wheel that a belt runs around.
+55|7|Linked rollers that carry power between sprockets, like a bike chain.
+56|0|A toothed wheel that a roller chain wraps around.
+57|4|A flat ring that spreads the load under a nut or bolt head.
+58|5|Pulled tight to permanently join two sheets.
+59|5|Lets a door swing on its pin.
+60|4|A cross-shaped joint that passes rotation around a bend.
+61|4|A split pin that locks a nut or pin in place.
+62|3|A screw turning a gear, for big slow-down and no back-drive.
+63|3|A quarter turn of the handle opens or shuts the flow.
+64|6|A band that screws tight to seal a hose onto a pipe.
